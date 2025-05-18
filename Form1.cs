@@ -23,5 +23,10 @@ namespace EjercicioPrueba
 
             //comentario
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("qweqweqweqwe qw eqw eqw");
+        }
     }
 }
